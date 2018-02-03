@@ -3,6 +3,9 @@
 A high performance implementation of the Ruby programming language. Built on the
 GraalVM by [Oracle Labs](https://labs.oracle.com).
 
+We recommend that you use a [Ruby version manager](doc/user/ruby-managers.md)
+to use TruffleRuby.
+
 ## Aim
 
 TruffleRuby aims to:
